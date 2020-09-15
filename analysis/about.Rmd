@@ -7,4 +7,15 @@ editor_options:
   chunk_output_type: console
 ---
 
-Describe your project.
+### About Me
+
+My name is Laura Hunter. I'm an incoming **Integrative Biology** student interested in human evolution. I graduated from Columbia University in 2017 and have been working at a [neuroscience lab](https://www.gottlieblab.com/) at the [Zuckerman Institute for Mind, Brain, and Behavior](https://zuckermaninstitute.columbia.edu/) ever since. So far, I'm enjoying this course, mostly because R seems like a more malleable programming language than my native MATLAB. In my spare time, I like to hike, play tennis, play dungeons and dragons with friends, and paint. Check out my painting of the skeleton of the animal I studied while working at the Zuckerman Institute:
+
+![Image of Macaque Skeleton](https://user-images.githubusercontent.com/12615998/86480299-bd8b2180-bd1b-11ea-921e-3f4c33582e7f.png)
+
+
+### About My Most Recent Project
+
+During my time working in primate cognitive neuroscience, I had the opportunity to pilot and begin collecting data for a task concerning non-instrumental human decision-making when confronted with a force-choice paradigm wherein value and variance are manipulated. Check out the paper that inspired this project [here](https://9fabbb78-5b5b-4a1b-aeb0-b5443b6eac2f.filesusr.com/ugd/9cf124_28146e8d3fa5431baaa796c288f0724c.pdf).
+
+
