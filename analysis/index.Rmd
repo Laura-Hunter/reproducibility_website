@@ -11,3 +11,4 @@ editor_options:
 ## Links to My Analyses
 
 * [Teeth Growth](teeth.html)
+* [Mayuri's Website](https://mviswan2.github.io/myproject/)
